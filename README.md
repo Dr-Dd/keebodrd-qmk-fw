@@ -1,5 +1,5 @@
 # QMK Firmware of the Keebodrd 
-This repository holds the custom qmk firmware of my personal keyboard: here are some of it's highlights:
+This repository holds the custom qmk firmware of my personal keyboard, here are some of it's highlights:
 - It has all the buttons found in a normal fullsize ANSI/ISO keyboard (SysRq key included), easily accessible in a 72 buttons layout
 - Mouse buttons to use in conjunction to the trackpoint
 - It contains the following layers:
