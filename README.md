@@ -7,7 +7,7 @@
 - Custom Waterslide decals fixed with varnish.
 - Teensy 2.0 Controller
 - Custom pcb from JLCPCB
-- Plexiglass underside screwed in with ribber feet under the screws
+- Plexiglass underside screwed in with rubber feet under the screws
 
 # QMK Firmware of the Keebodrd 
 This repository holds the custom qmk firmware of my personal keyboard, here are some of it's highlights:
